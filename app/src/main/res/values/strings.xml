@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TinkoffLab</string>
+    <string name="latest_title">Последние</string>
+    <string name="random_title">Случайные</string>
+    <string name="hot_title">Горячие</string>
+    <string name="top_title">Лучшие</string>
+    <string name="backbutton">backButton</string>
+    <string name="nextbutton">nextButton</string>
+    <string name="gif">gif</string>
+    <string name="error_text">Произошла ошибка при загрузке данных. Проверьте подключение к сети.</string>
+    <string name="error_repeat">Повторить</string>
+</resources>
